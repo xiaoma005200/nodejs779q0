@@ -1,0 +1,14 @@
+{
+	"port": 8080,
+	"bodyLimit": "100000kb",
+	"corsHeaders": ["Link"],
+	"projectName": "nodejs779q0",
+	"dbConnection": {
+		"dbtype": "mysql",
+		"database": "nodejs779q0",
+		"username": "root",
+		"password": "hellomysql6B"
+	},
+	"sessionSecret": "xiezn",
+	"jwtSecret": "xiezn"
+}
